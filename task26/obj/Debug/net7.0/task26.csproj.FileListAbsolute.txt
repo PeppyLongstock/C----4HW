@@ -1,0 +1,15 @@
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/bin/Debug/net7.0/task26
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/bin/Debug/net7.0/task26.deps.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/bin/Debug/net7.0/task26.runtimeconfig.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/bin/Debug/net7.0/task26.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/bin/Debug/net7.0/task26.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/task26.csproj.AssemblyReference.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/task26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/task26.AssemblyInfoInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/task26.AssemblyInfo.cs
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/task26.csproj.CoreCompileInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/task26.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/refint/task26.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/task26.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/task26.genruntimeconfig.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/task26/obj/Debug/net7.0/ref/task26.dll
