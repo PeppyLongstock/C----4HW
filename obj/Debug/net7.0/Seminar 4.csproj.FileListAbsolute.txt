@@ -1,0 +1,5 @@
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/obj/Debug/net7.0/Seminar 4.csproj.AssemblyReference.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/obj/Debug/net7.0/Seminar 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/obj/Debug/net7.0/Seminar 4.AssemblyInfoInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/obj/Debug/net7.0/Seminar 4.AssemblyInfo.cs
+/Users/asyateresenko/Desktop/Git/seminar/Seminar 4/obj/Debug/net7.0/Seminar 4.csproj.CoreCompileInputs.cache
